@@ -1,0 +1,6 @@
+outs:
+- md5: e2fa3a95a02f090a561be99b0710faed.dir
+  size: 23433701
+  nfiles: 300
+  hash: md5
+  path: insideout-face
